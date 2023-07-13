@@ -3,4 +3,5 @@
 <?php echo "Im live in BKK"; ?>
 <?php echo "Mahanakorn"; ?>
 <?php echo "Nongjok"; ?>
-
+<?php echo "Nongjok1"; ?>
+<?php echo "Nongjok2"; ?>
